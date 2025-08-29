@@ -10,7 +10,7 @@ const App = () => {
   const { authUser } = useContext(AuthContext);
 
   return (
-    <div className="min-h-screen bg-[url('/src/assets/bgImage.png')] bg-cover  ">
+    <div className="min-h-screen bg-[url('/bgImage.png')] bg-cover  ">
       {/* Overlay with blur */}
       <div className="min-h-screen backdrop-blur-s bg-black/40">
         <Toaster />

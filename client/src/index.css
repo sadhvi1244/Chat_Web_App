@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
+
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@theme {
+  /* Define a custom strong blur value */
+  --blur-5xl: 600px;
+  --blur-s: 2.7px;
+}

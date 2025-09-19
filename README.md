@@ -110,8 +110,6 @@ Our vision for the Chat Web App includes continuous improvement and exciting new
 
 ## ⚖️ License Information
 
-This project is currently released without a specific open-source license. This means that by default, all rights are reserved by the copyright holder.
-
 **Copyright (c) 2025 sadhvi1244.** All rights reserved.
 
 For inquiries regarding licensing or usage, please contact the main contributor.
